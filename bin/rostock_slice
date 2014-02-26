@@ -1,0 +1,4 @@
+slic3r \
+--load ~/.Slic3r/print/rostock.ini \
+--load ~/.Slic3r/printer/rostock.ini \
+--load ~/.Slic3r/filament/rostock.ini $1
