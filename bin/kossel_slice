@@ -1,0 +1,4 @@
+slic3r \
+--load ~/.Slic3r/print/kossel.ini \
+--load ~/.Slic3r/printer/kossel.ini \
+--load ~/.Slic3r/filament/kossel.ini $1
